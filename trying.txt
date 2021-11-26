@@ -24,3 +24,7 @@ Upgrades
   *cherryPieRecipe
     name:Cherry pie recipe
     desc:Boy, you'll never guess!
+
+Settings
+  background:https://github.com/aldrinm/stunning-waddle/raw/main/cool-background.jpg
+  
