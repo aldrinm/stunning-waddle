@@ -6,13 +6,14 @@ Resources
     name:Pie
     desc:A delicious pie.
 
-#Buildings
- # *brownCow
-  #  name: Brown cow
+/*
+ Buildings
+  *brownCow
+    name: Brown cow
    # desc: a big brown cow
    # cost: 20 coins
    # on tick: give 1 milk
-
+*/
 
 
 Upgrades
